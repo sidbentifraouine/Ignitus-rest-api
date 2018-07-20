@@ -1,8 +1,5 @@
 node_modules/*
 package-lock.json
 .idea/*
-<<<<<<< HEAD
 ./package.json
-=======
->>>>>>> origin/master
 package.json
